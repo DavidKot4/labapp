@@ -1,3 +1,7 @@
+
+
+
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,7 +9,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
   
 }
 
@@ -33,12 +36,17 @@ code {
 
 /* Navbar */
 .custom-navbar {
-  background-color: #1A2B48 !important; /* Custom red background */
+  background-color: #1A2B48 !important;
   
 }
 .navbar-brand{
-  color: #F0F3F5 !important; /* Custom white text */
+  color: #F0F3F5 !important; 
 }
 .nav-link{
-  color: #F0F3F5 !important; /* Custom white text */
+  color: #F0F3F5 !important;
+}
+
+div.App{
+  color:#1A2B48;
+  font-weight: bold;
 }
