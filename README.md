@@ -1,4 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for CS 330L.
+React Lab App
+This project was created for CS 330L
 
